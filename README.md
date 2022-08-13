@@ -1,4 +1,4 @@
-##Information about the application
+## Information about the application
 
 I have build a small application that will allow you to search for a user on Github, get their profile, bio, watchers count, and a list of their repositories.
 
