@@ -1,3 +1,10 @@
+##Information about the application
+
+I have build a small application that will allow you to search for a user on Github, get their profile, bio, watchers count, and a list of their repositories.
+
+I have used ReactJS along with Chakra UI for this application and fetched the github users data using GITHUB API.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -54,6 +61,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 ### Making a Progressive Web App
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+
 
 ### Advanced Configuration
 
